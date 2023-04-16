@@ -1,0 +1,22 @@
+h1{
+    text-transform: uppercase;
+}
+h1, p{
+    font-family: 'Libre Baskerville', serif;    
+    color: white;
+    text-align: center;
+}
+body{
+    background-color: black;
+}
+img{
+    border: solid;
+    border-color: white;
+    border-width: 5px;
+    width: 100%;
+}
+.meme{
+    margin-top: 100px;
+    width: 50%;
+    margin-left: 25%;
+}
